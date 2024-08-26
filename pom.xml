@@ -65,7 +65,7 @@
         <junit-jupiter.version>5.10.2</junit-jupiter.version>
 
         <!-- JDBC Drivers -->
-        <mysql-driver.version>8.1.0</mysql-driver.version>
+        <mysql-driver.version>8.0.32</mysql-driver.version>
         <postgresql-driver.version>42.7.3</postgresql-driver.version>
 
         <!-- Others -->
