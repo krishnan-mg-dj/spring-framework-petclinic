@@ -552,7 +552,7 @@
         </profile>
         <profile>
             <id>MySQL</id>
-	    <activation>
+	        <activation>
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
